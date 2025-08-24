@@ -1,0 +1,5 @@
+npm create vite@latest ai-prompt-gen -- --template react
+cd ai-prompt-gen
+npm install
+npm install tailwindcss postcss autoprefixer framer-motion lucide-react
+npx tailwindcss init -p
